@@ -1,0 +1,3 @@
+[submodule "private_submodule"]
+	path = private_submodule
+	url = https://github.com/miguelez11/private
